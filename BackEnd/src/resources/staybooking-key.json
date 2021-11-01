@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "staybooking-326705",
+  "private_key_id": "0110a6196457cd50ed1eb73e2cfa5247544d8903",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCia7yHza/IHoBA\nXU0PeS8a3kjKH8d9N+cFkkinaxhH/IvZjAmNtJJgwfllzroAjdLC+OfUfC589zj3\nrasmCq5gJYa6KSQMXWXipD/fTaE3oWzgRaLSgfluTD6c2I1xtOGH6G+9szKl+HQf\nAr65RHp0K92P1CPUEi/e3ZkMx90xAJa3S7TK9ftMiGLEI3V+WhWF+dKeKd8H20bI\nPMRps/aF1WxmWHgzV+KIIOSfrlwC1j2MIkutBnGRuus+dZ6rR6YHaMZaEJMgLUv7\nAX817Qv0ebbjD5CKDHM35rxfep04p3qiWI2JJbI4hlHhsOpUHj17jItEuGoaBOGL\ns1OdTDapAgMBAAECggEAHp30gh0R38VwI7HyztHnQUdZrVBkSIR7Nh+nNngHsbo3\nmqC9REsftMGcA8b+ZRBXBI3rFbD7Cm+H+5hvRNKKoHEyfnE27GXGyPxxVeTKWTRC\n09wMn2YE4PfabbKcpyyTvwzf04CuMX8uVJIt5bq04qVKNMymnFl5UKexLCmY1p2a\n6wIalQ5SIoQATI1jejIHL0Y3vjd4YG1jB9syaCPrEzcVnE8UcDngE+eWy55q5+Fy\nzgQ1/xdShpw0FPyUKVmLknBsOPIol7S8MnWy6z8d3yi7Wg9nSkR6HyZVmvTyPyUc\nGYYRQrZXFzE4fzPe4gq3hKDXL7y4QKfCTgBPxQJkqQKBgQDMCefJSIppn8CvvtBa\nAMR+2ve71S1XO5+eg/oEnbtgpkl6aq2C2SOtwdm38RLSBK7ZsKMPGsFPz52tt4Ai\nyHsak/VhLnd9ImYmKOEfVIfbZOXMj62WqKniNEXt0eq+jt1xoHJHFNo1vZZA/NLg\nv6jCDXYP5fzmqSaE7iFbeawXbwKBgQDLyJkPSwg+j+6jzKK4h99pzGypfPPwcjiv\nPrPYOJbVzEWY+UqLRRo25IoCYlNKiSZhls2baOxIolpbIpFUzj+y3Vcod8OolPA4\nh10Pv93EzPGmtsqYKYCllAKELPHG9JFQXGjunj6Z6kqgsjcOuIYHBvexXBT9y/Zh\nI0wkCuFHZwKBgQCaSzdLQB7jJtpYTCxUk1YEM+O418kUuVLIVTcAvKKQwM650ufp\nFfjkEb5pWdUIml/64Jc9+daLWw366tPr+b0V6SNa3P+g0h1659jtj0e5QcCBA3ma\nf2sQUsU6xU4F0hVlMpaYaA1nLDnuZQG20Vh1fiZ0eU/YwbsONOFmwki/4wKBgH+R\nac+bBuQzMg60EcE2vXL7l6JaKFMDDd0WgXr/odzg7Uif9jxM2+Y1Fvf7GWz1gmNh\nBgEdo5yslaerchMGsfWEfgVFQ+SKp/6bLnSnhWqnaTcWAqlSgcglaZXYlNoZS8Zk\nswN9aG7trh3+slyywqQvhmsu260tO2T/tbByZyhNAoGAPiYEsyKDSMUbgzvW80rA\nrPLwj0hTBKit8JjzamEjN9iuE5Fa55XvRDRR+ms9XCo7Ab96fk1pksaKvVDwjJmc\nv9Y8ueOQfdjZMZFPjJ7lPLOlWZXHP3mkR8KV7iqnCbMnyTyhKA+PlSru5GVsRJYx\n9zwv1bBJ6mg9aT14L0/pago=\n-----END PRIVATE KEY-----\n",
+  "client_email": "staybooking-serviceaccount@staybooking-326705.iam.gserviceaccount.com",
+  "client_id": "107760207167779946203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/staybooking-serviceaccount%40staybooking-326705.iam.gserviceaccount.com"
+}
